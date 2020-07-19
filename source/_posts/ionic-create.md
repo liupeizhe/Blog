@@ -1,7 +1,7 @@
 ---
 title: ionic + Angular环境搭建
 date: 2020-01-05
-tags: ['ionic', '前端']
+tags: ['ionic']
 ---
 
 本机操作系统：*Windows 10*
