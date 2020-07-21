@@ -57,4 +57,6 @@ tags: ['git']
 
 最后记得检查一下远程提交记录~
 
+gitmoji：https://gitmoji.carloscuesta.me/
+
 — END —
