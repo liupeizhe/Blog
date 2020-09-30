@@ -1,4 +1,9 @@
 #!/bin/bash
+# 部署
 hexo clean
 hexo generate
 hexo deploy
+(hexo g && hexo d)
+
+# 创建新博客
+hexo new <name>
