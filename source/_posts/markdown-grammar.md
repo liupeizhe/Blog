@@ -122,7 +122,7 @@ n个…
 
 示例：
 
-![blockchain](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=702257389,1274025419&fm=27&gp=0.jpg "区块链")
+![区块链](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=702257389,1274025419&fm=27&gp=0.jpg)
 
 # 六、超链接：
 
@@ -309,8 +309,8 @@ cond(no)->op
 ```
 
 效果如下：
-*本站不支持流程图（作者在简书上也不支持，但作者截了图，如下：）*
+*本站不支持流程图（作者在简书上也不支持，作者截图如下：）*
 
-![blockchain](https://upload-images.jianshu.io/upload_images/6860761-9d9524ba31047696.png?imageMogr2/auto-orient/strip|imageView2/2/w/751/format/webp "流程图")
+![流程图](https://upload-images.jianshu.io/upload_images/6860761-9d9524ba31047696.png?imageMogr2/auto-orient/strip|imageView2/2/w/751/format/webp)
 
 — END —

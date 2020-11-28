@@ -7,3 +7,6 @@ hexo deploy
 
 # 创建新博客
 hexo new <name>
+
+# 启动
+hexo s

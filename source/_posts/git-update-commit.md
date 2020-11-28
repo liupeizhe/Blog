@@ -19,7 +19,7 @@ tags: ['git']
 
 回车，出现界面如下，第一行是你的注释，输入`i`，进入编辑模式，将注释改好后按`Esc`退出编辑模式，输入`:wq`保存并退出，这时候你的注释就已经改好了。
 
-![blockchain](/images/git-update-commit/01.png "修改最后一次注释")
+![修改最后一次注释](/images/git-update-commit/01.png)
 
 ## 修改之前的注释
 
@@ -29,7 +29,7 @@ tags: ['git']
    最后的数字2指的是显示到倒数第几次， 比如2就会代表显示倒数的两次注释。
    如图：
 
-![blockchain](/images/git-update-commit/02.png "修改之前的注释")
+![修改之前的注释](/images/git-update-commit/02.png)
 
 2. 你想修改哪条注释，就把哪条注释前面的`pick`换成`edit`，注意不要动注释内容，只要改前面的东西就好了。
    `i`进入编辑模式，把`pick`换成`edit`后，`Esc`退出编辑模式，`:wq`保存并退出。

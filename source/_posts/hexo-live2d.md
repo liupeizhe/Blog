@@ -15,7 +15,7 @@ npm install --save hexo-helper-live2d
 ```
 这可能需要点时间，耐心一点...
 
-<!-- ![blockchain](/images/hexo-live2d/20200930145105.png "moments later...") -->
+<!-- ![moments later...](/images/hexo-live2d/20200930145105.png) -->
 
 下一步选择喜欢的卡通角色 ↓
 

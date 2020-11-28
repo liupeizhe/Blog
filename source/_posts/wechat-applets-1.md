@@ -12,19 +12,19 @@ tags: ['微信小程序']
 
 二、进入 [微信公众平台](https://mp.weixin.qq.com/)，登录后找到小程序的AppId，复制下来。
 
-![blockchain](/images/wechat-applets/1.jpg "查看AppId")
+![查看AppId](/images/wechat-applets/1.jpg)
 
 三、打开安装好的微信开发者工具，登录后选择小程序项目。
 
-![blockchain](/images/wechat-applets/2.jpg "小程序项目")
+![小程序项目](/images/wechat-applets/2.jpg)
 
 四、 将AppId复制到AppId输入框里，选择项目构建目录，点击确定。
 
-![blockchain](/images/wechat-applets/3.jpg "构建项目")
+![构建项目](/images/wechat-applets/3.jpg)
 
 五、出现如下图所示的界面，微信开发工具已经帮我们搭建了一个简单的项目了，到此你的第一个项目就搭建成功了~
 
-![blockchain](/images/wechat-applets/4.jpg "搭建成功")
+![搭建成功](/images/wechat-applets/4.jpg)
 
 六、下面来看一下项目的目录结构和文件
 
