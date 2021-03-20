@@ -3,14 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: ZHE
-subtitle: ''
+title: 枯木逢春_blog
+subtitle: 'kmfc'
 description: ''
 keywords:
-author: ZHE
+author: kmfc
 language: zh-CN
 timezone: 'Asia/Shanghai'
-
+QQ: 2634844296
+mail: 2634844296@qq.com
+github: https://github.com/liupeizhe
+zhihu: https://www.zhihu.com/people/ai-xue-xi-de-a-zhe
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 # url: http://yoursite.com
