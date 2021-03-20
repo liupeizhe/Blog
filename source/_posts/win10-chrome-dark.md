@@ -1,7 +1,7 @@
 ---
 title: win10强制开启Chrome黑暗模式
 date: 2020-01-06
-tags: ['小技巧']
+tags: ['黑科技']
 ---
 
 + 下载最新版[Chrome]('https://www.google.cn/chrome/')
